@@ -5,6 +5,7 @@ body {
    color: white;
    background-color: rgba(23, 23, 95, 0.644);
   }
+  
   h1 {
       font-size: 3em;
       text-align: center;
@@ -22,4 +23,10 @@ body {
   footer {
       text-align: center;
       font-style: italic;
+  }
+  @media screen and (orientation: portrait) 
+    section {
+        margin-top: 150px;
+        
+    
   }
