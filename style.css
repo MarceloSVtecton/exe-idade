@@ -24,7 +24,7 @@ body {
       text-align: center;
       font-style: italic;
   }
-  @media screen and (orientation: portrait) 
-    section {
-        margin-top: 300px;
+  @media screen and (orientation: portrait){ 
+      section {
+        margin-top: 300px;}
 }
