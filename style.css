@@ -26,7 +26,5 @@ body {
   }
   @media screen and (orientation: portrait) 
     section {
-        margin-top: 150px;
-        
-    
-  }
+        margin-top: 300px;
+}
