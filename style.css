@@ -24,6 +24,12 @@ body {
       text-align: center;
       font-style: italic;
   }
+  @media screen and (max-width: 480px) {
+      body {
+          width: min-content;
+      }
+      
+  }
   @media screen and (orientation: portrait) {
     h1 {
         font-size: 1.5em;
