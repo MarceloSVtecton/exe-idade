@@ -26,10 +26,11 @@ body {
   }
   @media screen and (orientation: portrait) {
     h1 {
+        margin: auto;
         text-align: center;
     }
     section {
         width: auto;
         height: 500px;
-        margin-top: 300px;}
+        margin: auto; }
 }
